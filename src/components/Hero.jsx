@@ -1,5 +1,5 @@
 import { LuImport } from "react-icons/lu"
-import raja from "../assets/raja.png"
+import raja from "../assets/raja.jpeg"
 
 const Hero = () => {
   return (
